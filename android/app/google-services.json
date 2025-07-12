@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850892090964",
+    "project_id": "abm4-laminate-app",
+    "storage_bucket": "abm4-laminate-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850892090964:android:20470fca8a6ea1ae8f47c1",
+        "android_client_info": {
+          "package_name": "com.abm4.laminate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj7QrqSli113mozJzkteen6CHTf7Y2Tvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
